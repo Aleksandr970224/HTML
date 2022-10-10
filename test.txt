@@ -1,5 +1,9 @@
+ HEAD
 test666
 file777`
+=======
+test111
+file2 theory
 for444
 learning 333
 !!!`
